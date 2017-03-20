@@ -21,7 +21,7 @@ import {
   ]
 }
 */
-class ListViewBasics extends Component {
+class FetchExample extends Component {
   constructor(props){
     super(props);
 
@@ -123,7 +123,7 @@ var styles = StyleSheet.create({
 export default class GettingStarted extends Component {
   render() {
     return (
-      <ListViewBasics />
+      <FetchExample />
     );
   }
 }
