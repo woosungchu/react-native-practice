@@ -1,16 +1,13 @@
 import React, { Component } from 'react';
-import PushNotification from 'react-native-push-notification';
+import { View, Text, StyleSheet, Picker, AppState, Platform } from 'react-native';
 
 export default class PushController extends Component {
-  componentDidMount() {
-    PushNotification.configure({
-      onNotification: function(notification) {
-        console.log( 'NOTIFICATION:', notification );
-      },
-    });
-  }
 
   render() {
-    return null;
+    return (
+      <Text>
+        Hello PushController!
+      </Text>
+    )
   }
 }
