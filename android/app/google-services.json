@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "968643605210",
+    "firebase_url": "https://gettingstarted-28c07.firebaseio.com",
+    "project_id": "gettingstarted-28c07",
+    "storage_bucket": "gettingstarted-28c07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968643605210:android:8580b24424f284c2",
+        "android_client_info": {
+          "package_name": "com.gettingstarted"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968643605210-ef1m32e66501i297qn4vmp0bqhc2d946.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGeCc2dWjN0NyKHBiZGS577oe4NzEDXXk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
